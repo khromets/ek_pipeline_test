@@ -1,0 +1,2002 @@
+[
+  {
+    "customer_id": "d9739789-1736-4e22-a1d4-5730980f9320",
+    "name": "Mark Montgomery",
+    "email": "thughes@example.net",
+    "phone": "+1-623-248-7039",
+    "address": "6798 Matthew Stravenue, Stephaniebury, UT 94788",
+    "date_joined": "2023-08-30",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "3ddf4644-bc6b-4e00-b83f-6df4fdaafa03",
+    "name": "Rachel Henderson",
+    "email": "princeadriana@example.org",
+    "phone": "001-710-397-4742x014",
+    "address": "8034 Hahn Dale Suite 404, Davidview, NE 61671",
+    "date_joined": "2024-07-29",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "81a1c8e9-b11d-4c22-b3b5-b3f08a0dc26a",
+    "name": "Deborah Green",
+    "email": "erik85@example.org",
+    "phone": "3553779525",
+    "address": "61023 Jones Path Suite 062, Port Jennifer, CO 35394",
+    "date_joined": "2022-12-12",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "3e0999db-358b-4d6d-97fa-8c120a56a5e5",
+    "name": "William Robinson",
+    "email": "amymurray@example.net",
+    "phone": "+1-939-619-1563x016",
+    "address": "962 Rice Meadow Suite 742, South Curtisfort, SD 25951",
+    "date_joined": "2025-05-03",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "9a946512-0fdc-485f-bab1-24800b146413",
+    "name": "Morgan Stein",
+    "email": "matthew79@example.net",
+    "phone": "390.727.9843",
+    "address": "038 Jennings Views, Lake Sarah, MT 79235",
+    "date_joined": "2023-02-24",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "3168da93-0410-4028-a89f-d051f6ae474c",
+    "name": "Ryan Nelson",
+    "email": "kristina21@example.org",
+    "phone": "+1-260-372-3233",
+    "address": "048 Salinas Union Suite 231, Michellehaven, RI 54471",
+    "date_joined": "2024-01-17",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "71f24e03-9059-4357-b14b-f13c58087304",
+    "name": "Stephanie Martinez",
+    "email": "kathryn03@example.com",
+    "phone": "200.789.8075x6996",
+    "address": "52653 Lewis Shores Apt. 711, Stanleyfort, AK 59444",
+    "date_joined": "2024-04-23",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "6e7b03bf-d821-49fc-9f6e-746311ccfcce",
+    "name": "Cassandra Moore",
+    "email": "oconnelllucas@example.org",
+    "phone": "+1-279-568-6835x80931",
+    "address": "PSC 6076, Box 9044, APO AA 82125",
+    "date_joined": "2024-12-13",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "bdc7eb62-bd37-4f7f-aa53-94b9b11f1f71",
+    "name": "Kevin Williamson",
+    "email": "lindsay28@example.net",
+    "phone": "779-244-2366x2403",
+    "address": "607 Green Mount, New Adamtown, VT 42115",
+    "date_joined": "2023-10-02",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "a8f4328c-9fda-4193-8f06-9fe1f1a0e347",
+    "name": "Crystal Velasquez",
+    "email": "zacharydavis@example.org",
+    "phone": "(729)794-0720x26898",
+    "address": "948 Martinez Hollow Apt. 296, West Alexanderfort, FM 60109",
+    "date_joined": "2024-03-06",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "414fa319-11b4-43b4-a770-dff784cfb111",
+    "name": "Jill Quinn",
+    "email": "mcdonaldchelsea@example.org",
+    "phone": "001-448-725-0808x987",
+    "address": "1438 Ford Landing Suite 565, Port Davidburgh, NJ 25789",
+    "date_joined": "2024-12-23",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "d405da96-2840-4406-836b-3448e737d59e",
+    "name": "Sharon Russell",
+    "email": "christopherblackburn@example.net",
+    "phone": "(380)655-8900",
+    "address": "450 Flores Divide, Meyerchester, HI 25397",
+    "date_joined": "2025-07-27",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "7a26bbc5-8999-438b-a6f9-53a0d0666d37",
+    "name": "Erika Jones",
+    "email": "marshallphilip@example.org",
+    "phone": "863-314-7069",
+    "address": "09236 Hamilton Station, Valerieshire, OK 80898",
+    "date_joined": "2024-01-09",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "a6543d51-469c-47b5-b7c0-892a3cc94a0f",
+    "name": "Shane Fields",
+    "email": "fhansen@example.org",
+    "phone": "420.846.1883",
+    "address": "6294 Ali Lane Apt. 455, Codytown, WY 24221",
+    "date_joined": "2023-11-04",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "517b935e-17d9-4cff-8729-fc879b2a236d",
+    "name": "Richard Riley",
+    "email": "smithcory@example.com",
+    "phone": "319.728.3434x58951",
+    "address": "566 Baker Canyon Apt. 934, West Michaelview, VT 45013",
+    "date_joined": "2025-05-19",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "3cf20949-6a28-4ad1-80b7-93e3c174029e",
+    "name": "Linda Boone",
+    "email": "gduncan@example.org",
+    "phone": "001-541-259-3641x9350",
+    "address": "314 Christopher Overpass Suite 248, Macdonaldside, NJ 39015",
+    "date_joined": "2024-04-02",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "914f9839-2ffc-452d-9878-16013d5d9884",
+    "name": "Henry Patrick",
+    "email": "jaylee@example.com",
+    "phone": "759.466.8874x76975",
+    "address": "4802 Wendy Tunnel Apt. 394, Cherylstad, NH 74480",
+    "date_joined": "2023-03-12",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "fdbbcbde-1785-4398-9340-4669a476dc6f",
+    "name": "Eric Herrera",
+    "email": "qjohnson@example.org",
+    "phone": "001-712-605-6112x0760",
+    "address": "12827 Bowers Cliffs, Walkerburgh, OH 73639",
+    "date_joined": "2024-10-28",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "ca1238fa-8530-4a20-a0b1-967a831659d0",
+    "name": "Thomas Pham",
+    "email": "cory63@example.com",
+    "phone": "001-859-201-1326x77447",
+    "address": "566 Madison Trail Apt. 194, Lucerohaven, MN 58222",
+    "date_joined": "2023-11-11",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "81cfda2d-7264-48a9-ae59-d2096f2de9aa",
+    "name": "Kimberly Davis",
+    "email": "dickersonkimberly@example.org",
+    "phone": "+1-392-870-5231x375",
+    "address": "PSC 4386, Box 7391, APO AA 30253",
+    "date_joined": "2023-08-15",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "9a5c2891-6a11-4d44-a321-173b907dc29c",
+    "name": "Tammy Phillips",
+    "email": "kenneth87@example.net",
+    "phone": "(249)205-7174",
+    "address": "319 Wilson Shores Apt. 429, Port Denise, WV 52299",
+    "date_joined": "2024-01-17",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "86e80170-6def-4389-a9c3-0f3de87d2022",
+    "name": "Victoria Mcconnell",
+    "email": "xward@example.net",
+    "phone": "001-873-857-5032x1778",
+    "address": "531 Maria Groves Suite 198, Port Sharon, DE 12747",
+    "date_joined": "2024-07-05",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "4b03b241-45d8-47ad-bc43-e2e9d9ec068a",
+    "name": "Lisa Franklin",
+    "email": "georgedorsey@example.com",
+    "phone": "001-666-669-4366x570",
+    "address": "0964 Paul Field, Port Mark, AS 37554",
+    "date_joined": "2023-10-05",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "c0266adb-cc7b-454f-9274-0acaf80f233b",
+    "name": "Jill Macias",
+    "email": "sheajim@example.net",
+    "phone": "912-489-8293x6193",
+    "address": "5741 Henry Brook, Port Jacob, NC 27575",
+    "date_joined": "2023-08-19",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "6209f632-7d6a-45b3-ade1-5fb301cbbf37",
+    "name": "Kathryn Cruz",
+    "email": "harrisjennifer@example.com",
+    "phone": "001-832-848-4268x73467",
+    "address": "30430 Jasmine Curve Apt. 298, Jessicahaven, OH 47250",
+    "date_joined": "2024-08-27",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "d870f0b1-e9db-4ab2-a78f-a272e706e0a8",
+    "name": "Ronald Lee",
+    "email": "jacobcompton@example.net",
+    "phone": "(864)564-7086x743",
+    "address": "15796 Blankenship Mission, South Isaacview, GU 84276",
+    "date_joined": "2024-11-26",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "5e4f613c-894e-4e1d-b372-00338bb36ba9",
+    "name": "Anthony Lopez",
+    "email": "cody66@example.com",
+    "phone": "+1-708-312-8699",
+    "address": "00562 David Shoal Suite 225, Cynthiabury, VI 59088",
+    "date_joined": "2024-08-07",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "04cd3d23-aaac-465a-90b4-1a4d49089cc1",
+    "name": "Christopher George",
+    "email": "zhernandez@example.org",
+    "phone": "902.633.8664x33280",
+    "address": "23953 Ronald Mission Suite 902, East Kevin, MN 33759",
+    "date_joined": "2024-06-26",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "0c6803c9-5479-47a6-89ee-64de02cd5e02",
+    "name": "Joshua Bonilla",
+    "email": "lisabender@example.net",
+    "phone": "001-371-280-1826",
+    "address": "314 Cynthia Walks Apt. 847, South Nicholastown, LA 56287",
+    "date_joined": "2025-05-30",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "afc93697-beb4-407d-8f3f-648db885c2e1",
+    "name": "Sean Gonzalez",
+    "email": "fpham@example.org",
+    "phone": "+1-717-468-9855",
+    "address": "PSC 4320, Box 9951, APO AA 49265",
+    "date_joined": "2024-08-03",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "a803d1b9-6b01-4cd7-8be2-0a7874b23ba1",
+    "name": "Jeffrey Bryan",
+    "email": "osmith@example.net",
+    "phone": "2735873428",
+    "address": "972 Khan Rapids Suite 711, North Joel, NM 97283",
+    "date_joined": "2024-06-09",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "e30d6ee3-780f-48c0-aacc-d5ff31838cb4",
+    "name": "Elizabeth Thompson",
+    "email": "paul83@example.com",
+    "phone": "595-211-7210x1146",
+    "address": "227 Brianna Tunnel Apt. 561, Theresahaven, SC 33013",
+    "date_joined": "2023-02-28",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "02398806-e305-400c-b3b5-2b03d4abdaae",
+    "name": "Cody Gordon",
+    "email": "kylieluna@example.com",
+    "phone": "001-799-494-0863x25767",
+    "address": "56819 Cooper Squares, Ashleyburgh, PR 47754",
+    "date_joined": "2022-10-25",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "3124bf3f-f751-4ee6-b3ab-fee8bfa3a35e",
+    "name": "Christina Hall",
+    "email": "tcooper@example.com",
+    "phone": "848-598-9874x4314",
+    "address": "45830 Kaitlyn Drive, Jesusberg, PA 89426",
+    "date_joined": "2023-01-04",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "f5ee7efa-0337-4de5-8735-d6ed071e27bc",
+    "name": "Andrew Fitzgerald",
+    "email": "catherine04@example.com",
+    "phone": "938.258.9414",
+    "address": "922 Wolf Ville, New Regina, CT 61476",
+    "date_joined": "2024-04-30",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "c7915a58-6e48-4a2b-ab2c-29a4ac6a517c",
+    "name": "Jennifer Reyes",
+    "email": "morrisjustin@example.com",
+    "phone": "388.755.5827x740",
+    "address": "PSC 8354, Box 8609, APO AP 00802",
+    "date_joined": "2023-07-11",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "5d071779-3445-44f0-a67d-a096f9ddaa4f",
+    "name": "Mrs. Ashley Walters MD",
+    "email": "stephenrodriguez@example.com",
+    "phone": "(423)784-2483x919",
+    "address": "32193 Danielle Village, North Allison, FM 01374",
+    "date_joined": "2025-01-13",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "ef84b9d8-b48f-4e7d-b7ad-81589b0d049b",
+    "name": "Cynthia Atkinson",
+    "email": "mbailey@example.com",
+    "phone": "870.584.4714x179",
+    "address": "6201 Odonnell Stravenue Apt. 699, New Karenside, SC 14071",
+    "date_joined": "2024-03-28",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "0a1b37d6-ce4c-4360-a956-4435c15f7fad",
+    "name": "Kimberly Watson",
+    "email": "mrasmussen@example.net",
+    "phone": "+1-496-385-5469x679",
+    "address": "93454 Farrell Views, Lake Tanner, AL 88102",
+    "date_joined": "2024-06-06",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "f602a432-77c6-42e6-944f-caf553b41f36",
+    "name": "Andrea Smith",
+    "email": "ramosjustin@example.net",
+    "phone": "573-352-4581x868",
+    "address": "279 Young Ford, Taylorberg, IL 17495",
+    "date_joined": "2024-11-17",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "c6c61d34-5fd8-4950-86d4-4c9e3ec4ef28",
+    "name": "Steven Watson",
+    "email": "denise44@example.org",
+    "phone": "637.857.9153",
+    "address": "013 Yu Trail, Shawnburgh, NJ 63076",
+    "date_joined": "2023-12-24",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "146833b9-c318-4bdf-807d-34efc1d85256",
+    "name": "Donald Cook",
+    "email": "adrianjohnson@example.org",
+    "phone": "4534217549",
+    "address": "5971 Garcia Crossroad Apt. 834, Fuentesmouth, KY 91097",
+    "date_joined": "2023-08-28",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "cf795da3-060e-46ed-ba83-e7829ae1fcae",
+    "name": "Kayla Gardner",
+    "email": "christianclark@example.net",
+    "phone": "233.892.7559x8601",
+    "address": "5159 Murray Way Suite 846, Andrewstad, VI 66487",
+    "date_joined": "2024-04-21",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "503f0caf-4d0a-4c90-b196-535415190758",
+    "name": "Adam Wheeler",
+    "email": "jeremyhernandez@example.com",
+    "phone": "400-585-2885x4520",
+    "address": "28154 Jones Extensions Apt. 388, West Jacobstad, NE 56062",
+    "date_joined": "2024-01-01",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "a746815c-90f3-4dc2-b739-bd0894329f6c",
+    "name": "Sylvia Brooks",
+    "email": "christophergarcia@example.org",
+    "phone": "9583685635",
+    "address": "4112 Martinez Passage Suite 220, Heathfurt, TN 57072",
+    "date_joined": "2023-02-11",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "ddc38651-0a42-4883-b99f-cda27eb6f882",
+    "name": "Nicholas Long",
+    "email": "jacksonheather@example.net",
+    "phone": "892-386-2721x318",
+    "address": "104 Smith Spring, Jonesberg, IL 52985",
+    "date_joined": "2025-07-10",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "bb4f92e6-a767-44a1-9339-d864a9557394",
+    "name": "Nathan Pollard",
+    "email": "nhobbs@example.com",
+    "phone": "(205)955-3570x19155",
+    "address": "38109 Bauer Lane Apt. 417, Woodsshire, WV 83121",
+    "date_joined": "2024-10-08",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "a289039d-9a45-4a31-b6b4-3c74b8d40226",
+    "name": "Antonio Brown",
+    "email": "michaelfox@example.net",
+    "phone": "+1-554-970-3137x5115",
+    "address": "4276 Downs Cove, East Matthew, OK 44050",
+    "date_joined": "2023-02-14",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "24893f1a-cbf9-4c47-a52b-5033ab37fe97",
+    "name": "Kelsey Buck",
+    "email": "oliviadonovan@example.com",
+    "phone": "001-624-281-6820x03075",
+    "address": "77706 Nicole Shoals Apt. 323, Joannport, AR 36776",
+    "date_joined": "2025-03-04",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "7e1d81bd-b9c7-4b82-88bb-c876125d66bf",
+    "name": "Brad Dillon",
+    "email": "amymartinez@example.org",
+    "phone": "925.836.2024",
+    "address": "1047 Henry Estate, South Saraton, GU 21298",
+    "date_joined": "2024-09-23",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "d9691e89-0319-4db1-af8d-50dc2d996c9e",
+    "name": "Mrs. Olivia Sutton DDS",
+    "email": "fmccarthy@example.net",
+    "phone": "001-987-327-4242",
+    "address": "5120 Doyle Drives, Lake Carla, AZ 09562",
+    "date_joined": "2023-06-16",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "612eaa6b-dd34-47d5-8442-39947140b89d",
+    "name": "Alexis Sandoval",
+    "email": "michaelpowers@example.com",
+    "phone": "(508)872-2396x44134",
+    "address": "9417 Phillip Plains, Drakeville, IN 55708",
+    "date_joined": "2025-03-29",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "3971fd65-80da-404c-b068-0f2579acd396",
+    "name": "Justin Mitchell",
+    "email": "yedwards@example.org",
+    "phone": "384-589-5639x4994",
+    "address": "98087 Roberts Shore, North Danielle, MI 08939",
+    "date_joined": "2022-12-17",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "67772208-822e-42b7-ae6f-776cae5bf22c",
+    "name": "Melinda Hurst",
+    "email": "kellycarter@example.com",
+    "phone": "(399)657-5754x468",
+    "address": "8881 Evans Mall Suite 359, Jeffreyview, NE 18907",
+    "date_joined": "2023-03-11",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "c0af7896-773f-4b38-a249-0f38df92d010",
+    "name": "Matthew Campbell",
+    "email": "frostmikayla@example.com",
+    "phone": "794-952-8655",
+    "address": "PSC 5738, Box 9669, APO AP 80805",
+    "date_joined": "2025-04-21",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "ca2b4856-2ec5-4bfb-9a41-1cbfb29b4181",
+    "name": "Diana Blankenship",
+    "email": "gomezjennifer@example.org",
+    "phone": "(735)775-7685",
+    "address": "02338 Norris Ports, Port Robert, MH 91115",
+    "date_joined": "2025-04-06",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "115f766d-24f9-4cd3-946c-9ed28c0cf16a",
+    "name": "Wendy Marshall",
+    "email": "johnsonryan@example.net",
+    "phone": "001-437-696-5215x43016",
+    "address": "2462 Hoffman Island, Crystalchester, CA 97903",
+    "date_joined": "2024-06-10",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "ccbcc7a7-fb6e-4b20-bd98-e516bb3d81e1",
+    "name": "Dawn Long",
+    "email": "andreglass@example.net",
+    "phone": "+1-428-696-8038",
+    "address": "470 Chandler Springs, Jamesburgh, MD 19003",
+    "date_joined": "2025-02-18",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "5cac4f4c-d68f-4705-8b66-7ea843b8491b",
+    "name": "Katrina Turner",
+    "email": "rluna@example.net",
+    "phone": "(353)579-0650x9162",
+    "address": "251 Sparks Knoll, Port Christopherport, VA 68641",
+    "date_joined": "2023-05-28",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "5143c5c9-8dbd-4330-916b-091353f84e34",
+    "name": "Brandon Baird",
+    "email": "johnglass@example.com",
+    "phone": "778-593-3001",
+    "address": "60627 Sheppard Lake, Cookfort, WI 14043",
+    "date_joined": "2024-07-23",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "40c413e0-6cd4-47da-b867-b723fa4e0422",
+    "name": "Gabrielle Hodges",
+    "email": "dlyons@example.org",
+    "phone": "(800)682-5202x1874",
+    "address": "6179 Lopez Station, North Robertland, PR 41671",
+    "date_joined": "2025-03-30",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "8ec9759d-3348-4810-a41e-84fd65b03c28",
+    "name": "Donald Butler",
+    "email": "rgross@example.com",
+    "phone": "740.539.6246x93177",
+    "address": "PSC 0094, Box 8367, APO AE 09478",
+    "date_joined": "2024-05-09",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "c8108745-1af3-40cc-b6a1-6ce0e00c2547",
+    "name": "Dylan Salinas",
+    "email": "daniellefernandez@example.com",
+    "phone": "6798610302",
+    "address": "645 Mark Well, Joshuaberg, GA 72842",
+    "date_joined": "2023-10-29",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "57ec4704-6ed2-4227-bdc2-db6df8ce9e8b",
+    "name": "Tim Wood",
+    "email": "vtate@example.net",
+    "phone": "001-794-533-3245x5492",
+    "address": "15026 Golden Bypass, Terrelltown, CT 47551",
+    "date_joined": "2023-05-29",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "de3c6b2d-8f3e-4036-897f-693f6c341b0a",
+    "name": "Andrea Olson",
+    "email": "rortiz@example.net",
+    "phone": "524-367-9985x286",
+    "address": "85094 Gonzales Parkway, Dayside, TN 80301",
+    "date_joined": "2025-04-03",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "9d09d0c7-aad4-458c-ae4a-e1ad28cb9b69",
+    "name": "Kathleen Weiss",
+    "email": "lopezamy@example.org",
+    "phone": "001-551-438-2876x72240",
+    "address": "5765 Blackwell Pass Suite 221, Port Sandra, DE 69092",
+    "date_joined": "2023-10-30",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "c9dcad8b-f470-429a-bccf-9f3e91dcadae",
+    "name": "Robert Williams",
+    "email": "barbara65@example.org",
+    "phone": "458.228.9105x262",
+    "address": "5508 Terry Greens Suite 558, Richardberg, CT 70260",
+    "date_joined": "2024-06-24",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "5df1969f-d05e-4be1-a18e-5fd4ed3b3326",
+    "name": "Gregory Trevino",
+    "email": "james03@example.org",
+    "phone": "(599)510-2553",
+    "address": "PSC 5413, Box 6210, APO AP 69236",
+    "date_joined": "2022-11-14",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "672399b4-eb1c-44af-858e-08a5ae2cc766",
+    "name": "Donna Caldwell",
+    "email": "jessicawoodward@example.net",
+    "phone": "+1-789-228-6490x45957",
+    "address": "5727 Armstrong Lane, West Maria, ND 11080",
+    "date_joined": "2025-01-05",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "9130d9d0-4483-47b6-bf8b-eeef32934525",
+    "name": "David Hurley",
+    "email": "parkerapril@example.org",
+    "phone": "706.230.7534x37033",
+    "address": "8003 Regina Creek Apt. 205, North Sharonmouth, ID 24846",
+    "date_joined": "2023-07-25",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "d81a5f82-18de-4e9a-898a-83aecc1666e9",
+    "name": "Ray Galvan",
+    "email": "james50@example.org",
+    "phone": "565-506-9037x128",
+    "address": "60668 Oscar Mountains, New Charlesshire, NV 79574",
+    "date_joined": "2023-05-28",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "70e1cd6b-5487-4515-ac5f-21a677be6f9c",
+    "name": "Kimberly Scott",
+    "email": "joyce83@example.com",
+    "phone": "001-926-656-0072",
+    "address": "915 Manuel Overpass Suite 852, South Joshua, IN 69218",
+    "date_joined": "2024-11-01",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "6b72a9a4-7770-40c8-86f3-7ac092ec2f0a",
+    "name": "Sarah Stephens",
+    "email": "santiagojoanna@example.org",
+    "phone": "+1-368-495-8869",
+    "address": "Unit 9814 Box 1023, DPO AE 74846",
+    "date_joined": "2023-11-27",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "f026e1a6-7d60-41c9-abee-aadfc7d079fc",
+    "name": "Daniel Welch",
+    "email": "jesus92@example.net",
+    "phone": "768.280.5913x27767",
+    "address": "PSC 7613, Box 9523, APO AA 22252",
+    "date_joined": "2022-12-05",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "f20c0dad-51c4-42cf-9765-4116825afded",
+    "name": "Gregory Reyes MD",
+    "email": "judithallen@example.net",
+    "phone": "613.266.8292x4553",
+    "address": "15101 Cox Oval Apt. 137, Michaelmouth, SC 67144",
+    "date_joined": "2024-01-23",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "002a436a-576e-4cfd-b7f2-e9b7751ea060",
+    "name": "Andrea Richardson",
+    "email": "xgilbert@example.com",
+    "phone": "546-798-9586x47708",
+    "address": "07032 Michelle Shoals Apt. 621, Port Courtneyview, MH 71426",
+    "date_joined": "2024-11-17",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "454ad56c-278e-40ae-8607-85497c5efa1f",
+    "name": "Natalie Cox",
+    "email": "llewis@example.com",
+    "phone": "505.642.6426x90131",
+    "address": "USS Watson, FPO AE 39844",
+    "date_joined": "2024-07-27",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "8c9037ef-a451-4896-babc-1b735b04d1d0",
+    "name": "Jon Larsen",
+    "email": "michelle32@example.org",
+    "phone": "(567)454-0913x94894",
+    "address": "0260 Joshua Crossroad, Port Deanburgh, DC 23240",
+    "date_joined": "2023-10-08",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "eeb21a4f-b170-4801-8758-29b4be4ea789",
+    "name": "Peter Zamora",
+    "email": "wstanley@example.com",
+    "phone": "(654)968-8677",
+    "address": "8495 Price Passage, Annborough, NM 35760",
+    "date_joined": "2023-07-12",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "ca34e3ef-9653-4160-9afb-716060d4165f",
+    "name": "Jennifer Kennedy",
+    "email": "omar94@example.org",
+    "phone": "(954)335-0323x918",
+    "address": "52158 Dominique Lakes, Whitetown, HI 85841",
+    "date_joined": "2023-02-01",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "67d766ca-af9e-4df8-8d88-0a4a7a128986",
+    "name": "Erik Wilson",
+    "email": "emilymiller@example.net",
+    "phone": "812.491.8369x273",
+    "address": "6577 Mccarty Stravenue Apt. 925, Ashleybury, DC 94203",
+    "date_joined": "2024-02-21",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "81a1c6d4-fa8c-4750-b3dc-bf3f7131298c",
+    "name": "Heidi Tapia",
+    "email": "igreen@example.net",
+    "phone": "273.821.0867x93008",
+    "address": "9574 Mitchell Circle, Dannytown, SD 97533",
+    "date_joined": "2023-07-26",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "ab6ea3de-d8eb-484d-bb10-6a5eb2b8b808",
+    "name": "Rick Pace",
+    "email": "taylorchristopher@example.org",
+    "phone": "235.986.6537",
+    "address": "38724 Sarah Locks Suite 514, Frankhaven, KS 24274",
+    "date_joined": "2022-09-24",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "edaaff07-7bc7-4e95-b1fa-724eedd781b2",
+    "name": "Michael Miller",
+    "email": "rogerstroy@example.net",
+    "phone": "001-791-784-7435x294",
+    "address": "796 Garcia Union Apt. 763, Hickshaven, CT 58965",
+    "date_joined": "2025-05-03",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "c9b626a5-1bd5-48d7-9c46-ab46c958d70b",
+    "name": "Michael Adams",
+    "email": "jon56@example.net",
+    "phone": "001-335-435-3887x906",
+    "address": "52557 Nathan Crest Suite 916, Matthewfurt, NE 84590",
+    "date_joined": "2023-02-04",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "18ccae3a-d233-4c5a-8025-e9c700bdef1a",
+    "name": "Aaron Wilson",
+    "email": "thomas40@example.net",
+    "phone": "001-573-819-3447",
+    "address": "6933 Nelson Alley Apt. 577, Lake Cynthia, UT 35001",
+    "date_joined": "2024-10-30",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "289fe8f1-fe1a-4687-adbb-46ece0dee0f8",
+    "name": "Robert Miles",
+    "email": "kimberly84@example.net",
+    "phone": "(811)342-2021x42078",
+    "address": "50837 Hernandez Extensions Suite 123, New Kimberlyburgh, OH 64461",
+    "date_joined": "2025-01-31",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "01ee9331-dc50-440a-b602-527d25a6b4bb",
+    "name": "Stephanie Ware",
+    "email": "housetiffany@example.org",
+    "phone": "001-399-395-8151x75975",
+    "address": "561 Paul Neck, South Daniellestad, AS 59257",
+    "date_joined": "2024-02-04",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "4734b2d7-1b02-4879-a7b7-8c77fb197197",
+    "name": "Ashley Mitchell",
+    "email": "patrick66@example.org",
+    "phone": "949-376-6673x6298",
+    "address": "228 Paige Underpass Suite 375, Gonzalezton, ND 56197",
+    "date_joined": "2023-11-14",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "65cfaf99-e4b7-407c-94fd-acfbdfc03f22",
+    "name": "Donald Stout",
+    "email": "barrerachloe@example.net",
+    "phone": "001-396-952-9824x9639",
+    "address": "925 Mary Knoll, Stevenberg, AK 02875",
+    "date_joined": "2023-05-30",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "3fca2844-1e99-499b-8e4d-97d183c83e29",
+    "name": "Cody Peterson",
+    "email": "khebert@example.net",
+    "phone": "(262)331-5215x4566",
+    "address": "USS Johnston, FPO AE 25193",
+    "date_joined": "2023-06-08",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "89c8f0d9-65f5-4be1-8dd3-4940e828e721",
+    "name": "Joyce Hughes",
+    "email": "lrios@example.org",
+    "phone": "616-200-0969x362",
+    "address": "48061 Richard Light Apt. 602, Lake David, NJ 84934",
+    "date_joined": "2023-05-25",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "04106578-266b-4606-8527-abe6a6f7219e",
+    "name": "Jay Wise",
+    "email": "markssabrina@example.net",
+    "phone": "267.948.2605x804",
+    "address": "98659 Anna Rest, East Jennifer, OK 21229",
+    "date_joined": "2024-08-01",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "a3f04ccf-cfb4-4386-8447-1a6f69f3445e",
+    "name": "Karen Herring",
+    "email": "ssmith@example.net",
+    "phone": "8605187434",
+    "address": "USNV Choi, FPO AE 33368",
+    "date_joined": "2025-08-02",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "93eff8cb-21d5-4616-bb28-163f209b323c",
+    "name": "Martin Morgan",
+    "email": "tonya93@example.net",
+    "phone": "001-970-319-2170x17665",
+    "address": "10886 Misty Mission Suite 861, East Edwardport, AR 01662",
+    "date_joined": "2023-11-28",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "e830b303-aefe-4dc6-8952-54182cffd473",
+    "name": "Susan Mcmahon",
+    "email": "fhowell@example.com",
+    "phone": "6376768556",
+    "address": "4562 Shaun Land, New Rebeccaton, PA 08365",
+    "date_joined": "2025-06-04",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "a75af6b6-8179-4949-8a9d-5c17faa169a3",
+    "name": "Tiffany Combs",
+    "email": "xkidd@example.com",
+    "phone": "(918)514-3372x4830",
+    "address": "Unit 8831 Box 0469, DPO AA 34010",
+    "date_joined": "2023-04-06",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "3b4440bd-04ae-4083-b77f-23864678c211",
+    "name": "Mary Hughes",
+    "email": "williamslisa@example.org",
+    "phone": "454-900-9896",
+    "address": "46568 Mark Harbor, Lake Kevinberg, TN 27414",
+    "date_joined": "2022-10-30",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "3876fb5c-d766-4438-822f-2d66c3b24b74",
+    "name": "April Bautista DDS",
+    "email": "derek79@example.org",
+    "phone": "520.773.2922",
+    "address": "16140 Day Divide, New Sharonhaven, DE 80839",
+    "date_joined": "2025-01-06",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "731de02d-6141-4dcd-a4a6-9b3943a913b8",
+    "name": "Victor Johnson MD",
+    "email": "frazierjeff@example.org",
+    "phone": "001-870-794-1178x3336",
+    "address": "81959 Ann Fields, North Amberland, FM 58081",
+    "date_joined": "2025-02-21",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-18 18:00:00"
+  },
+  {
+    "customer_id": "79d0a8b2-8d51-4575-93ba-20d9dcf16e2a",
+    "name": "Ruben Greene",
+    "email": "oschultz@example.com",
+    "phone": "001-860-857-3589x95894",
+    "address": "96361 Gary Brooks, West Curtisfurt, IA 42942",
+    "date_joined": "2023-02-12",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "8fbed5aa-10b9-465f-b31f-64b8cadfa888",
+    "name": "John Hutchinson",
+    "email": "theresamarsh@example.org",
+    "phone": "(241)960-4147",
+    "address": "4246 Jenkins Cliff, Finleyberg, IA 01525",
+    "date_joined": "2023-10-18",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "7db75518-00ed-495c-9fad-8a955ed52fa8",
+    "name": "Kevin Sims",
+    "email": "cynthia65@example.net",
+    "phone": "001-260-640-6233",
+    "address": "7525 Becker Bypass Apt. 341, Roberttown, MH 22433",
+    "date_joined": "2023-04-09",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "1f673157-b506-4ca9-a1d5-4213e4a4c7ef",
+    "name": "Heather Roth",
+    "email": "vconley@example.com",
+    "phone": "+1-560-395-3956x478",
+    "address": "49195 Gonzalez Ville, Thomasmouth, ME 11556",
+    "date_joined": "2024-03-21",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "00b8132a-a282-41b7-a40a-9cf763a8314c",
+    "name": "Frederick Mcfarland",
+    "email": "peterbender@example.com",
+    "phone": "7573309556",
+    "address": "979 Juarez Route, Collinsport, AS 77789",
+    "date_joined": "2025-04-06",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "b01cae62-a0c9-4b56-afdc-bf2c9df7b149",
+    "name": "Regina Aguilar",
+    "email": "zprice@example.com",
+    "phone": "+1-636-701-6439x53511",
+    "address": "547 Jacob Trail Apt. 989, North Brentview, AS 53374",
+    "date_joined": "2024-11-02",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "3e0c9d02-1a14-4608-9dc5-aed7b9eb527d",
+    "name": "Joseph Wagner",
+    "email": "griffinderrick@example.net",
+    "phone": "7942261670",
+    "address": "PSC 9484, Box 9781, APO AP 72185",
+    "date_joined": "2023-08-15",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "ed113929-3daf-418e-bb3b-90f91db7d873",
+    "name": "Rickey Morgan",
+    "email": "johnleblanc@example.net",
+    "phone": "+1-936-407-8718x2679",
+    "address": "374 Rios Rapids Apt. 334, Port Seanshire, CO 94952",
+    "date_joined": "2024-07-08",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "3352be21-8c46-4d4d-9542-68bd94b052e0",
+    "name": "Charles Lawson",
+    "email": "caitlinbautista@example.net",
+    "phone": "692-408-1163",
+    "address": "92341 Gordon Drive Suite 107, Parkschester, NJ 87669",
+    "date_joined": "2022-12-17",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "015dc221-9710-4aab-bc5c-7ece0c263a62",
+    "name": "Matthew Copeland",
+    "email": "jose53@example.org",
+    "phone": "205-866-2233",
+    "address": "4916 Conner Port Suite 444, South Victoria, GA 04656",
+    "date_joined": "2025-03-23",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "6ff7c488-829b-4292-bab0-01706bedb0ba",
+    "name": "Richard Campbell",
+    "email": "rothjohn@example.org",
+    "phone": "001-646-535-6418",
+    "address": "8965 Berry Loaf, Smithtown, AZ 88337",
+    "date_joined": "2024-04-29",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "2046c774-7ac0-4fb1-81bc-60ed87bbccd0",
+    "name": "John Armstrong",
+    "email": "halejohn@example.com",
+    "phone": "9989509376",
+    "address": "439 Ross Mills, New Dennis, ID 07287",
+    "date_joined": "2025-06-15",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "de25cfc5-86ac-4830-8689-4ed74048d4a3",
+    "name": "Jeffrey Herman",
+    "email": "stephenbrown@example.net",
+    "phone": "446.514.4951x82475",
+    "address": "475 Ross Motorway Suite 098, Knightside, PR 27540",
+    "date_joined": "2024-01-13",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "cd94dd3a-708b-4186-8c05-ab613025b7f5",
+    "name": "Carol Lewis",
+    "email": "mendozajill@example.org",
+    "phone": "+1-960-357-3547x313",
+    "address": "1635 Baker Underpass, New Christina, GA 70404",
+    "date_joined": "2022-11-07",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "d333a134-9ce5-4479-9041-940d42959805",
+    "name": "Shannon Bennett",
+    "email": "brandon76@example.net",
+    "phone": "(449)836-6449x980",
+    "address": "606 Danny Plaza Suite 136, Barnettmouth, NE 14833",
+    "date_joined": "2025-08-14",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "1746da48-be6c-4d58-8b34-c44b06861dc3",
+    "name": "Brandon Olson",
+    "email": "cassidyjones@example.com",
+    "phone": "619-233-2679x07504",
+    "address": "PSC 7794, Box 7082, APO AP 47590",
+    "date_joined": "2023-10-16",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "132734a8-87bc-423d-a70c-94a55841651f",
+    "name": "Danny Nicholson",
+    "email": "peter45@example.org",
+    "phone": "916-244-7792x366",
+    "address": "863 Hayes Heights Apt. 775, Christophermouth, KY 42514",
+    "date_joined": "2023-07-16",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "84d5ece4-b48c-4738-8c11-906f48130f8b",
+    "name": "Catherine Giles",
+    "email": "pattonsheri@example.org",
+    "phone": "226.846.5985x106",
+    "address": "1690 Carter Island Suite 426, Johnshire, IN 01518",
+    "date_joined": "2025-01-05",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "d722fc2c-fa28-40cd-bbd0-57b05983cc21",
+    "name": "Tammie Murphy",
+    "email": "barnessandra@example.net",
+    "phone": "(262)696-3278",
+    "address": "649 Kayla Ferry Apt. 904, Markstad, KY 61356",
+    "date_joined": "2024-06-05",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "0d59a05f-df0e-41e0-880f-65ec4d44c471",
+    "name": "Brian Ramirez",
+    "email": "michelebutler@example.net",
+    "phone": "259.595.6519x9952",
+    "address": "PSC 9249, Box 0401, APO AA 97432",
+    "date_joined": "2023-05-20",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "6ccdfd15-836a-4bfa-9994-79b1717ca7d5",
+    "name": "Ernest Bush",
+    "email": "parsonsheather@example.org",
+    "phone": "(536)245-8209",
+    "address": "43272 Hernandez Isle Apt. 570, West Jeffrey, MS 56250",
+    "date_joined": "2023-12-04",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "de97deee-c7fc-41e9-a509-3777f082ea06",
+    "name": "Martin Scott",
+    "email": "debraanderson@example.com",
+    "phone": "3212453627",
+    "address": "6829 Anthony Port Suite 159, Sotobury, AR 65188",
+    "date_joined": "2023-09-15",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "e56fa052-a3b5-4b05-a8d0-5e91da9b522a",
+    "name": "Mario Burns",
+    "email": "derrickcox@example.com",
+    "phone": "966.774.9240",
+    "address": "5218 Sandoval Loaf Apt. 485, Port Juliaville, NV 42206",
+    "date_joined": "2023-02-02",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "4436e001-dcbc-4167-a73c-50076f76bcaa",
+    "name": "Nicole Moses",
+    "email": "zimmermankevin@example.net",
+    "phone": "793.635.2919x508",
+    "address": "246 Ashley Throughway Apt. 242, Kellyfort, HI 05589",
+    "date_joined": "2023-06-07",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "6106842c-425f-4912-bb49-b68807de3ffd",
+    "name": "Ruben Lee",
+    "email": "katherine78@example.net",
+    "phone": "001-829-729-7629",
+    "address": "054 Blake Drives, Mendozaville, MA 45525",
+    "date_joined": "2025-03-20",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "013c4fb1-e764-4ea5-9295-5c7c23cf3d1a",
+    "name": "Benjamin Gomez",
+    "email": "kimberly52@example.org",
+    "phone": "965.930.5786x6059",
+    "address": "961 Daniel Fork Suite 884, West Luis, NY 30500",
+    "date_joined": "2025-06-23",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "1f73971a-ee09-4102-979d-a73cf12841bc",
+    "name": "Cindy Logan",
+    "email": "fhart@example.org",
+    "phone": "+1-680-277-0202x95326",
+    "address": "64525 Michael Green Suite 835, East Danielberg, MO 42480",
+    "date_joined": "2023-11-04",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "5b2d5df5-478a-4e39-8525-7603dc216cca",
+    "name": "Jessica Davis",
+    "email": "stevengibson@example.net",
+    "phone": "558.394.6506x2942",
+    "address": "9894 Gibson Ports Suite 546, Lake Heather, MA 85342",
+    "date_joined": "2023-04-24",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "3986e68b-6382-4ec7-8e5e-f4cb130d1b07",
+    "name": "Patrick Morgan",
+    "email": "wallerelizabeth@example.com",
+    "phone": "705.588.5285",
+    "address": "1290 Lisa Crescent Suite 298, Port Dannyview, PW 23292",
+    "date_joined": "2023-02-02",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "ab9a6b03-66ec-4e0e-b684-58a2dd442087",
+    "name": "Michael Ferrell",
+    "email": "wongpatricia@example.com",
+    "phone": "882-575-1826",
+    "address": "164 James Way Suite 713, East Anthonyview, ND 79312",
+    "date_joined": "2025-02-19",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "992bfcac-fa0e-41ee-b1b1-a28fb3f600d6",
+    "name": "Jose Martin",
+    "email": "jameshoward@example.net",
+    "phone": "+1-268-806-7251",
+    "address": "411 Peter Creek, North Shannon, MT 50587",
+    "date_joined": "2024-05-01",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "ed5f7329-dc11-4f98-a9d5-d1db7e0c06f9",
+    "name": "Jay Lyons",
+    "email": "cjacobs@example.com",
+    "phone": "+1-524-958-6204x5561",
+    "address": "0594 Nichole Drives, West Thomasville, NC 85317",
+    "date_joined": "2025-02-16",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "2f8b6cb3-591d-44f7-8db0-d7194dc43d63",
+    "name": "Ashley Smith",
+    "email": "santoscassandra@example.com",
+    "phone": "+1-691-380-9603",
+    "address": "9974 Moses Road Apt. 482, Port Mary, VI 41788",
+    "date_joined": "2023-01-30",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "6cbc3c6e-a39f-4174-ba1b-3b73357495aa",
+    "name": "Shawn Williams",
+    "email": "iibarra@example.com",
+    "phone": "715-835-2536",
+    "address": "2908 Jenna Fords, Marthamouth, MP 38369",
+    "date_joined": "2023-12-28",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "26b87ddc-3e48-4177-a7f3-a7333a7976b3",
+    "name": "Alexandra Cain",
+    "email": "smithdaniel@example.org",
+    "phone": "721-575-4772x960",
+    "address": "70882 Moore Radial, Codyshire, SC 82796",
+    "date_joined": "2023-01-19",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "89e2e0fc-c706-478d-a10e-ec0748a4a07d",
+    "name": "Stacey Guzman",
+    "email": "ngomez@example.net",
+    "phone": "001-777-549-0637",
+    "address": "USS Vazquez, FPO AP 55053",
+    "date_joined": "2025-06-12",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "1765f789-475e-47a7-8369-66d936de65b3",
+    "name": "Gary Lucas",
+    "email": "xmontgomery@example.org",
+    "phone": "001-670-758-0797x4741",
+    "address": "412 Silva Roads Suite 916, West Johnshire, SC 78463",
+    "date_joined": "2025-05-15",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "79ff368a-c5d9-4777-925c-4491ae0ea162",
+    "name": "Mrs. Jennifer Williamson MD",
+    "email": "gallegoswhitney@example.com",
+    "phone": "(926)708-7258x476",
+    "address": "9602 Gomez Via, West Tyler, TX 34546",
+    "date_joined": "2024-04-25",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "fb4c72a5-8780-49cf-bee2-9d3bdb51f3ef",
+    "name": "Tony Adams",
+    "email": "randall13@example.com",
+    "phone": "836.808.4005x0775",
+    "address": "4689 Williams Flat, North Johnchester, MP 98118",
+    "date_joined": "2025-04-10",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "4cd74ff6-5475-4cf4-8f33-b94ee64ded91",
+    "name": "Jon Benson",
+    "email": "christopher92@example.org",
+    "phone": "001-397-998-8848x672",
+    "address": "986 Saunders Shoal Apt. 707, Melindaberg, PA 54876",
+    "date_joined": "2025-04-25",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "0eafdbfb-3daa-4fb1-ab5c-c35e8c134423",
+    "name": "Kelly Wilson",
+    "email": "francisco76@example.net",
+    "phone": "268-857-8312x73266",
+    "address": "2424 Brenda Grove Apt. 308, Lake Edwin, DE 56195",
+    "date_joined": "2025-06-25",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "d67af8cf-2209-4c0e-a0f2-ed99f96a64f9",
+    "name": "Christopher Ruiz",
+    "email": "holly46@example.com",
+    "phone": "+1-699-773-5481x692",
+    "address": "PSC 3283, Box 2542, APO AE 39225",
+    "date_joined": "2025-07-13",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "2cce24d6-a5c5-4acf-9b57-983982c43e05",
+    "name": "Nicholas Christensen",
+    "email": "iflowers@example.org",
+    "phone": "(615)957-9189x26955",
+    "address": "6033 Rachel Ridges Apt. 383, Jackstad, OR 32008",
+    "date_joined": "2023-06-14",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "1bf17b93-4580-4f9f-9566-221e68f6c42c",
+    "name": "Alexa Peters",
+    "email": "taylorlisa@example.com",
+    "phone": "890-482-2533",
+    "address": "3175 Nancy Mountain Suite 875, Powellmouth, MS 62816",
+    "date_joined": "2025-04-12",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "3a0e31db-2a53-475b-84c3-a7c5c497a515",
+    "name": "Misty Evans",
+    "email": "cynthia99@example.org",
+    "phone": "001-553-693-0547x0608",
+    "address": "8703 Christian Shoal, North Betty, FM 91948",
+    "date_joined": "2023-02-02",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "01dd3a64-035f-4ed0-b2e0-969d9238637f",
+    "name": "Samantha Edwards",
+    "email": "ashleyjohnson@example.com",
+    "phone": "+1-877-999-6767x8250",
+    "address": "87489 Jose Pike Apt. 609, East Josephbury, MS 79439",
+    "date_joined": "2023-09-10",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "4a79e089-1de2-4b2c-88c7-4e3e9291fa35",
+    "name": "Rebecca Thompson",
+    "email": "cheryl99@example.org",
+    "phone": "422.247.4293",
+    "address": "47760 Kristen Stravenue, Fernandezbury, PA 37564",
+    "date_joined": "2024-09-21",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "c01a640d-93fd-4180-b32b-514503c4161e",
+    "name": "Lisa Parker",
+    "email": "kimberly29@example.com",
+    "phone": "511-863-2831x383",
+    "address": "388 Smith Lights Apt. 535, South Brenda, PR 58264",
+    "date_joined": "2024-09-22",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "ef36d716-f634-47d2-aa17-34ce7b11500f",
+    "name": "Diane Kim",
+    "email": "hlee@example.net",
+    "phone": "540-712-2567x394",
+    "address": "043 Brittany Walks, Davisfurt, MO 66811",
+    "date_joined": "2023-06-18",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "02a295ee-b2b3-4875-b92b-db381917efe3",
+    "name": "Kelly Fitzgerald",
+    "email": "deandawn@example.net",
+    "phone": "001-337-929-0507x41614",
+    "address": "84112 Carla Forks Apt. 617, Hallview, IA 61100",
+    "date_joined": "2023-12-24",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-20 21:12:32.400922"
+  },
+  {
+    "customer_id": "425cee4d-b202-45b9-9deb-40aed52b2813",
+    "name": "Katherine Stark",
+    "email": "carpenterrussell@example.com",
+    "phone": "001-849-548-2190",
+    "address": "Unit 9145 Box 8027, DPO AP 78320",
+    "date_joined": "2025-07-29",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "e3da4ec8-4bc6-42e3-94c5-b21bcc614e66",
+    "name": "Megan Campbell",
+    "email": "jconner@example.org",
+    "phone": "(811)608-9360x0126",
+    "address": "4228 Christina Path, Paigefurt, NM 41398",
+    "date_joined": "2023-07-03",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "92874458-858d-4271-9af2-12a804155a26",
+    "name": "Jack Hughes",
+    "email": "pgardner@example.org",
+    "phone": "821-256-9808x66294",
+    "address": "460 Johnson Passage, New Christinaville, AS 62767",
+    "date_joined": "2024-11-20",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "7a82e48a-24bd-45cd-b359-226adcca86f6",
+    "name": "Mr. Gerald Bradley",
+    "email": "davidallen@example.net",
+    "phone": "(294)851-0244x294",
+    "address": "3498 Christina Inlet, Lake Samanthafurt, IL 40757",
+    "date_joined": "2023-08-08",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "b35888cf-8fb5-4c6f-9e22-5181271adef3",
+    "name": "Tiffany Mccormick",
+    "email": "cohenjoshua@example.org",
+    "phone": "2932139997",
+    "address": "404 Desiree Walk Apt. 462, Rodriguezton, ND 23566",
+    "date_joined": "2025-01-30",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "5aaaec14-19c7-46f6-804c-c60280252cb0",
+    "name": "Megan Alexander",
+    "email": "lambertshane@example.org",
+    "phone": "711-565-0913x509",
+    "address": "536 Gonzalez Freeway, West Markton, ME 43911",
+    "date_joined": "2023-10-17",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "9d6bd5f8-0054-4e95-9a3f-863628b2fac3",
+    "name": "Tina Simmons",
+    "email": "morganlong@example.org",
+    "phone": "001-283-280-3835",
+    "address": "70809 Cody Extensions Suite 648, Lake Benjamin, MP 65948",
+    "date_joined": "2022-10-23",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "3f43b839-444d-410a-9dfd-990033e2e100",
+    "name": "Kevin Wells",
+    "email": "lindsaychan@example.com",
+    "phone": "454-458-2885",
+    "address": "2864 George Mall, Jarvisborough, AS 93902",
+    "date_joined": "2025-01-30",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "7adbd5ee-c936-475a-80a7-3d581f0e19fa",
+    "name": "Amy Jenkins",
+    "email": "billy11@example.net",
+    "phone": "316.215.8722x1691",
+    "address": "PSC 1374, Box 9555, APO AE 28999",
+    "date_joined": "2024-03-23",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "291ed4dd-0bed-44a1-afe6-8520152589f5",
+    "name": "Shelby Ramos",
+    "email": "vanessawolf@example.org",
+    "phone": "001-539-392-3570x55190",
+    "address": "24201 White Glen, Baileyland, VT 94935",
+    "date_joined": "2023-01-12",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "160a968d-185c-42ad-b11d-addf919d7675",
+    "name": "Deborah Richardson",
+    "email": "sarah18@example.org",
+    "phone": "921-607-9430x52333",
+    "address": "007 Mcclain Street Suite 315, South Glenn, DE 38587",
+    "date_joined": "2022-10-04",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "1ccc3724-453d-4de0-9cd0-eaaddcd91329",
+    "name": "Cody Aguilar",
+    "email": "barbara32@example.net",
+    "phone": "395-546-9400x1760",
+    "address": "41659 Hull Glen, North Kimberly, NY 00790",
+    "date_joined": "2024-09-23",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "2f5396eb-21db-45ef-aaaa-2c913f1c786d",
+    "name": "Michaela Buckley",
+    "email": "swilliams@example.org",
+    "phone": "001-851-959-8033",
+    "address": "51116 Ayala Club, Ryanburgh, LA 50023",
+    "date_joined": "2022-10-20",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "00193800-398e-49af-a7f0-f15a441a263a",
+    "name": "Colton Moreno",
+    "email": "stevenmclaughlin@example.com",
+    "phone": "001-242-226-5130",
+    "address": "89009 Molly Wells, Martinberg, AS 60700",
+    "date_joined": "2024-01-16",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "baf0abf3-a86c-46ae-924d-b08493ac1ca4",
+    "name": "David Jimenez",
+    "email": "moralesgeorge@example.net",
+    "phone": "500.636.4307x94473",
+    "address": "29191 Kenneth Pines, Brownborough, SD 84342",
+    "date_joined": "2025-01-21",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "d0b245a4-40f5-4ae0-9a5b-f95177008781",
+    "name": "Michael James",
+    "email": "zmitchell@example.org",
+    "phone": "799.936.2118",
+    "address": "81674 Harvey Loop, Fernandezchester, LA 98180",
+    "date_joined": "2023-11-18",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "4939e2f7-511a-4941-9155-4c24a0888059",
+    "name": "Hannah Chavez",
+    "email": "benjaminross@example.com",
+    "phone": "+1-694-444-2300x52342",
+    "address": "972 Tyler Dam, New Christopher, PW 50315",
+    "date_joined": "2023-07-05",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "4a81dcdb-5680-4a52-aa9d-1392efbb2bf5",
+    "name": "Jessica Garcia",
+    "email": "gkim@example.org",
+    "phone": "+1-728-925-4889",
+    "address": "345 Nelson Port Apt. 621, North Amberburgh, MA 36683",
+    "date_joined": "2025-06-30",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "d847f7fe-2a27-4e70-8ab8-1e88e1917fe4",
+    "name": "Casey Mckinney",
+    "email": "cruzjames@example.net",
+    "phone": "506-271-6543x314",
+    "address": "Unit 1644 Box 4834, DPO AP 31844",
+    "date_joined": "2023-02-09",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "ab466a8b-4841-483b-adcf-8b9294e6911d",
+    "name": "Ronald Chung",
+    "email": "johnsontammy@example.net",
+    "phone": "670-896-8932x516",
+    "address": "USNS Chapman, FPO AP 23057",
+    "date_joined": "2024-04-26",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "42e71758-5b01-4381-bd32-8e1ead8a0ee2",
+    "name": "Kenneth Sawyer",
+    "email": "brandonjohnson@example.org",
+    "phone": "796-684-2956",
+    "address": "69520 Stacey Flats Suite 082, North Gwendolyn, PR 18796",
+    "date_joined": "2023-01-27",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "4e2bee91-89ae-4623-ae7b-541c16161021",
+    "name": "Joshua Perkins",
+    "email": "brett70@example.org",
+    "phone": "282-469-5024x3680",
+    "address": "525 Maria Crossroad Suite 757, Solisside, MP 55375",
+    "date_joined": "2025-06-20",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "7c4c4dd1-300d-4ee3-b722-cfff304423de",
+    "name": "John Johnson",
+    "email": "nmitchell@example.com",
+    "phone": "549-740-8645x7935",
+    "address": "13977 Roberts Stravenue, Delgadotown, VT 21031",
+    "date_joined": "2023-07-16",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "a4b2d8ee-8c2f-4357-8545-30047a414f8f",
+    "name": "Ryan Herrera",
+    "email": "yorktiffany@example.org",
+    "phone": "890.491.4677",
+    "address": "285 Decker Radial, Brownstad, NH 54738",
+    "date_joined": "2024-03-21",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "75b45e05-b6a7-451a-8642-1d0c49214604",
+    "name": "Jason Perez",
+    "email": "hancockjoseph@example.org",
+    "phone": "992.940.6897",
+    "address": "0274 Kimberly Spur, Rachelborough, SD 26863",
+    "date_joined": "2025-05-05",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "bd628863-3b1c-4145-a9be-2c716e623e6a",
+    "name": "Meredith Morrow",
+    "email": "villegaswilliam@example.net",
+    "phone": "001-781-206-0843x780",
+    "address": "074 Alyssa Stravenue, Moodystad, NH 65299",
+    "date_joined": "2024-08-21",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "8d595633-b68b-474a-8857-93aa4008ff68",
+    "name": "Ashley Parsons",
+    "email": "lwheeler@example.net",
+    "phone": "363-449-2463x123",
+    "address": "91205 Lisa Ports Apt. 126, Leeburgh, NM 02539",
+    "date_joined": "2023-12-05",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "a475a274-eeb5-4840-a8e8-43b0b6ff15f7",
+    "name": "Jennifer Davis",
+    "email": "charles97@example.net",
+    "phone": "779-585-5905",
+    "address": "3281 Cheryl Curve Apt. 828, Valdezberg, MT 95681",
+    "date_joined": "2023-12-02",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "1b28695e-7d59-4ec1-ba3e-905bd559ccdd",
+    "name": "Stephanie Clark",
+    "email": "rcarney@example.net",
+    "phone": "(922)940-0246x05614",
+    "address": "227 Flores Ford, North Christopher, MN 55032",
+    "date_joined": "2024-01-05",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "25af46b4-6e1d-4be3-8fc7-529063b5db36",
+    "name": "Kevin Bass",
+    "email": "joelkennedy@example.org",
+    "phone": "2794290137",
+    "address": "PSC 9076, Box 3977, APO AP 25489",
+    "date_joined": "2023-01-22",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "59e77077-fb16-4b1d-8c0f-f898dc441833",
+    "name": "Morgan Vazquez",
+    "email": "alexbennett@example.com",
+    "phone": "001-367-497-9435x3883",
+    "address": "949 Simmons Rapid, Jasmineland, CA 29744",
+    "date_joined": "2022-11-29",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "62b6cc5d-bc3c-491b-a0b0-90ae38565b77",
+    "name": "Tina Houston",
+    "email": "rgreen@example.net",
+    "phone": "730.821.3058x50140",
+    "address": "4187 Williams Mission, South Barbaraton, IA 07824",
+    "date_joined": "2023-01-18",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "027f98f4-7cda-4cbe-99ac-631295ddbd05",
+    "name": "Juan Fletcher",
+    "email": "richardsonbrandon@example.com",
+    "phone": "(640)457-1151x682",
+    "address": "192 Beck Hills, Davisfort, MI 03178",
+    "date_joined": "2023-12-20",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "c4f48563-a8d6-4d7f-9d70-a71ca39876dc",
+    "name": "Greg Hood MD",
+    "email": "cdelgado@example.com",
+    "phone": "988-519-5675x1114",
+    "address": "404 Chelsea Walk Suite 088, South Johnny, OH 75743",
+    "date_joined": "2025-03-10",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "f72f551e-8114-4bde-a2a1-a25d59946e68",
+    "name": "Michael Stewart",
+    "email": "paul48@example.org",
+    "phone": "001-761-685-2848x73059",
+    "address": "894 Green Plain, Josephville, NV 41901",
+    "date_joined": "2024-11-13",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "58768331-0bd4-4dc4-8346-bf1c9ff22bfd",
+    "name": "Amy Martin",
+    "email": "ashley32@example.org",
+    "phone": "380.884.8469x640",
+    "address": "61036 Miranda Rest Suite 713, West Danaside, IN 59130",
+    "date_joined": "2022-11-29",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "8e3515d2-b23f-463f-acaf-cd4c7b834c67",
+    "name": "Joy Richards",
+    "email": "ebrown@example.org",
+    "phone": "001-621-628-1940x129",
+    "address": "220 Jason Field Apt. 744, Jonathanstad, FL 37631",
+    "date_joined": "2024-08-19",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "f11aedf6-c1b6-4bee-91c8-acb38c010a17",
+    "name": "Joanna Montes",
+    "email": "qnichols@example.net",
+    "phone": "635.613.0695",
+    "address": "49565 Heidi Pike, North Shannon, SC 59595",
+    "date_joined": "2023-03-07",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "19665e5b-b46f-42a5-a713-9ef23a22b681",
+    "name": "Cassandra Stewart",
+    "email": "katelynmcintosh@example.net",
+    "phone": "994-820-4287",
+    "address": "041 Jennifer Rue Suite 153, Rogerbury, KY 25141",
+    "date_joined": "2024-04-06",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "c332ccfe-2042-4c6c-af60-c983a0edea35",
+    "name": "Craig Pope",
+    "email": "shariflynn@example.org",
+    "phone": "824.329.2016",
+    "address": "691 Amanda Row Suite 923, Jenniferside, PR 04414",
+    "date_joined": "2023-10-15",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "7bfbdf53-f753-4ef1-8b9e-b28bf3053875",
+    "name": "Kelly Thompson",
+    "email": "waguirre@example.org",
+    "phone": "+1-479-535-7186x0822",
+    "address": "08711 Riley Cliffs, Lake Heathershire, MI 19619",
+    "date_joined": "2023-11-16",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "e1a1a00d-7089-4a5e-93f6-92e7f50dac64",
+    "name": "Janet Mahoney",
+    "email": "heather02@example.com",
+    "phone": "204-532-8712x11484",
+    "address": "6870 Barnes Drive Suite 097, New Angelamouth, MH 26335",
+    "date_joined": "2023-12-19",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "9bbe15ce-b17a-4645-a28a-8d7c85294278",
+    "name": "Larry Mack",
+    "email": "sheenatrujillo@example.org",
+    "phone": "590.834.2742x166",
+    "address": "5250 Reed Union Apt. 007, Carlosburgh, WI 65742",
+    "date_joined": "2023-10-10",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "53930207-df8b-4e9e-8a55-72c7b5513f4a",
+    "name": "Anita Thomas",
+    "email": "iramos@example.net",
+    "phone": "(650)865-1573x931",
+    "address": "040 Jessica Grove Apt. 136, North Hunterberg, GU 08592",
+    "date_joined": "2024-10-27",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "da83c543-da81-429b-8226-8a978093b65b",
+    "name": "Amy Love",
+    "email": "judy68@example.org",
+    "phone": "8703846510",
+    "address": "PSC 8106, Box 3706, APO AP 10330",
+    "date_joined": "2023-09-06",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "32d610a3-2ad7-479c-ace6-cd33fe01b58c",
+    "name": "Dr. Joseph Clark",
+    "email": "sean69@example.net",
+    "phone": "526.335.5677",
+    "address": "6895 Stacy Plains, New Donna, WV 46093",
+    "date_joined": "2023-04-30",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "ced4423b-4c31-438c-9bdb-f68eecdbef10",
+    "name": "Katherine Chan",
+    "email": "daniel49@example.net",
+    "phone": "001-996-339-6249x81126",
+    "address": "55075 Melendez Fords Suite 160, Robinsontown, VA 12727",
+    "date_joined": "2024-08-08",
+    "customer_type": "individual",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "e6e71ad3-ee53-4881-a762-72008ca93e2a",
+    "name": "Ashlee Oconnor",
+    "email": "paullauren@example.com",
+    "phone": "521-515-9098",
+    "address": "6208 Erica Courts Apt. 159, West Candace, FL 64920",
+    "date_joined": "2022-10-27",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "86aa2976-d535-449e-9962-ac8594df8eb4",
+    "name": "Linda Potter",
+    "email": "deanjason@example.org",
+    "phone": "818-417-9939x1094",
+    "address": "786 King Coves, West Brianhaven, MN 78588",
+    "date_joined": "2023-07-15",
+    "customer_type": "premium",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  },
+  {
+    "customer_id": "842a9444-8c4b-48af-b602-8e4f4719b6ba",
+    "name": "Marilyn Robinson",
+    "email": "gstein@example.net",
+    "phone": "001-768-966-0398x9207",
+    "address": "8913 Espinoza Shoal Apt. 973, East Deannaport, SC 98729",
+    "date_joined": "2024-08-05",
+    "customer_type": "business",
+    "timestamp_insert": "2025-09-29 20:16:03.549544"
+  }
+]

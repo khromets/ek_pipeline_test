@@ -1,0 +1,48 @@
+2025-09-18 20:54:05,932 - __main__ - INFO - Starting finance data generation pipeline
+2025-09-18 20:54:05,935 - data.scripts.database_setup - INFO - Database created successfully at /Users/evgen/projects/ek_pipeline_test/data/raw/finance_data.db
+2025-09-18 20:54:05,959 - __main__ - INFO - Generated 100 customers
+2025-09-18 20:54:29,231 - __main__ - INFO - Starting finance data generation pipeline
+2025-09-18 20:54:29,232 - data.scripts.database_setup - INFO - Database created successfully at /Users/evgen/projects/ek_pipeline_test/data/raw/finance_data.db
+2025-09-18 20:54:29,257 - __main__ - INFO - Generated 100 customers
+2025-09-18 20:54:29,267 - __main__ - INFO - Generated 200 accounts
+2025-09-18 20:54:29,375 - __main__ - INFO - Generated 2000 transactions
+2025-09-18 20:54:29,378 - data.scripts.db_operations - INFO - Inserted 100 customers
+2025-09-18 20:54:29,381 - data.scripts.db_operations - INFO - Inserted 200 accounts
+2025-09-18 20:54:29,396 - data.scripts.db_operations - INFO - Inserted 2000 transactions
+2025-09-18 20:54:29,398 - data.scripts.db_operations - INFO - Backed up 100 customers to JSON
+2025-09-18 20:54:29,399 - data.scripts.db_operations - INFO - Backed up 200 accounts to JSON
+2025-09-18 20:54:29,416 - data.scripts.db_operations - INFO - Backed up 2000 transactions to JSON
+2025-09-18 20:54:29,417 - __main__ - INFO - Data generation completed successfully!
+2025-09-18 20:54:29,417 - __main__ - INFO - Database statistics: {'customers': 100, 'accounts': 200, 'transactions': 2000}
+2025-09-20 21:12:32,394 - __main__ - INFO - Starting finance data generation pipeline - Mode: INSERT
+2025-09-20 21:12:32,397 - data.scripts.database_setup - INFO - Database created successfully at /Users/evgen/projects/ek_pipeline_test/data/raw/finance_data.db
+2025-09-20 21:12:32,400 - __main__ - INFO - Loaded 100 existing customer IDs
+2025-09-20 21:12:32,400 - __main__ - INFO - Loaded 200 existing account IDs
+2025-09-20 21:12:32,400 - __main__ - INFO - Loaded 2000 existing transaction IDs
+2025-09-20 21:12:32,414 - __main__ - INFO - Generated 50 total customers (50 new)
+2025-09-20 21:12:32,419 - __main__ - INFO - Generated 100 total accounts
+2025-09-20 21:12:32,527 - __main__ - INFO - Generated 2000 total transactions
+2025-09-20 21:12:32,530 - data.scripts.db_operations_enhanced - INFO - Inserted 50 new customers
+2025-09-20 21:12:32,532 - data.scripts.db_operations_enhanced - INFO - Inserted 100 new accounts
+2025-09-20 21:12:32,549 - data.scripts.db_operations_enhanced - INFO - Inserted 2000 new transactions
+2025-09-20 21:12:32,551 - data.scripts.db_operations_enhanced - INFO - Backed up 150 customers to JSON
+2025-09-20 21:12:32,554 - data.scripts.db_operations_enhanced - INFO - Backed up 300 accounts to JSON
+2025-09-20 21:12:32,592 - data.scripts.db_operations_enhanced - INFO - Backed up 4000 transactions to JSON
+2025-09-20 21:12:32,593 - __main__ - INFO - Data generation completed successfully! Mode: INSERT
+2025-09-20 21:12:32,593 - __main__ - INFO - Database statistics: {'customers': 150, 'accounts': 300, 'transactions': 4000}
+2025-09-29 20:16:03,543 - __main__ - INFO - Starting finance data generation pipeline - Mode: INSERT
+2025-09-29 20:16:03,544 - data.scripts.database_setup - INFO - Database created successfully at /Users/evgen/projects/ek_pipeline_test/data/raw/finance_data.db
+2025-09-29 20:16:03,549 - __main__ - INFO - Loaded 150 existing customer IDs
+2025-09-29 20:16:03,549 - __main__ - INFO - Loaded 300 existing account IDs
+2025-09-29 20:16:03,549 - __main__ - INFO - Loaded 4000 existing transaction IDs
+2025-09-29 20:16:03,562 - __main__ - INFO - Generated 50 total customers (50 new)
+2025-09-29 20:16:03,568 - __main__ - INFO - Generated 100 total accounts
+2025-09-29 20:16:03,645 - __main__ - INFO - Generated 1500 total transactions
+2025-09-29 20:16:03,647 - data.scripts.db_operations_enhanced - INFO - Inserted 50 new customers
+2025-09-29 20:16:03,649 - data.scripts.db_operations_enhanced - INFO - Inserted 100 new accounts
+2025-09-29 20:16:03,667 - data.scripts.db_operations_enhanced - INFO - Inserted 1500 new transactions
+2025-09-29 20:16:03,671 - data.scripts.db_operations_enhanced - INFO - Backed up 200 customers to JSON
+2025-09-29 20:16:03,674 - data.scripts.db_operations_enhanced - INFO - Backed up 400 accounts to JSON
+2025-09-29 20:16:03,728 - data.scripts.db_operations_enhanced - INFO - Backed up 5500 transactions to JSON
+2025-09-29 20:16:03,729 - __main__ - INFO - Data generation completed successfully! Mode: INSERT
+2025-09-29 20:16:03,729 - __main__ - INFO - Database statistics: {'customers': 200, 'accounts': 400, 'transactions': 5500}
