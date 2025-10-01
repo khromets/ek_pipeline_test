@@ -1,1 +1,3 @@
 py_env/
+airflow/
+logs/

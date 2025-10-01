@@ -46,3 +46,36 @@
 2025-09-29 20:16:03,728 - data.scripts.db_operations_enhanced - INFO - Backed up 5500 transactions to JSON
 2025-09-29 20:16:03,729 - __main__ - INFO - Data generation completed successfully! Mode: INSERT
 2025-09-29 20:16:03,729 - __main__ - INFO - Database statistics: {'customers': 200, 'accounts': 400, 'transactions': 5500}
+2025-09-30 22:35:02,078 - __main__ - INFO - Starting finance data generation pipeline - Mode: INSERT
+2025-09-30 22:35:02,083 - data.scripts.database_setup - INFO - Database created successfully at /opt/airflow/data/raw/finance_data.db
+2025-09-30 22:35:02,093 - __main__ - INFO - Loaded 200 existing customer IDs
+2025-09-30 22:35:02,094 - __main__ - INFO - Loaded 400 existing account IDs
+2025-09-30 22:35:02,094 - __main__ - INFO - Loaded 5500 existing transaction IDs
+2025-09-30 22:35:02,097 - __main__ - INFO - Generated 10 total customers (10 new)
+2025-09-30 22:35:02,099 - __main__ - INFO - Generated 20 total accounts
+2025-09-30 22:35:02,112 - __main__ - INFO - Generated 200 total transactions
+2025-09-30 22:35:02,116 - data.scripts.db_operations_enhanced - INFO - Inserted 10 new customers
+2025-09-30 22:35:02,122 - data.scripts.db_operations_enhanced - INFO - Inserted 20 new accounts
+2025-09-30 22:35:02,153 - data.scripts.db_operations_enhanced - INFO - Inserted 200 new transactions
+2025-09-30 22:35:23,321 - __main__ - INFO - Starting finance data generation pipeline - Mode: INSERT
+2025-09-30 22:35:23,323 - data.scripts.database_setup - INFO - Database created successfully at /opt/airflow/data/raw/finance_data.db
+2025-09-30 22:35:23,334 - __main__ - INFO - Loaded 210 existing customer IDs
+2025-09-30 22:35:23,334 - __main__ - INFO - Loaded 420 existing account IDs
+2025-09-30 22:35:23,334 - __main__ - INFO - Loaded 5700 existing transaction IDs
+2025-09-30 22:35:23,338 - __main__ - INFO - Generated 10 total customers (10 new)
+2025-09-30 22:35:23,340 - __main__ - INFO - Generated 20 total accounts
+2025-09-30 22:35:23,354 - __main__ - INFO - Generated 200 total transactions
+2025-09-30 22:35:23,360 - data.scripts.db_operations_enhanced - INFO - Inserted 10 new customers
+2025-09-30 22:35:23,367 - data.scripts.db_operations_enhanced - INFO - Inserted 20 new accounts
+2025-09-30 22:35:23,431 - data.scripts.db_operations_enhanced - INFO - Inserted 200 new transactions
+2025-10-01 11:00:04,586 - __main__ - INFO - Starting finance data generation pipeline - Mode: INSERT
+2025-10-01 11:00:04,591 - data.scripts.database_setup - INFO - Database created successfully at /opt/airflow/data/raw/finance_data.db
+2025-10-01 11:00:04,626 - __main__ - INFO - Loaded 220 existing customer IDs
+2025-10-01 11:00:04,627 - __main__ - INFO - Loaded 440 existing account IDs
+2025-10-01 11:00:04,627 - __main__ - INFO - Loaded 5900 existing transaction IDs
+2025-10-01 11:00:04,633 - __main__ - INFO - Generated 10 total customers (10 new)
+2025-10-01 11:00:04,635 - __main__ - INFO - Generated 20 total accounts
+2025-10-01 11:00:04,650 - __main__ - INFO - Generated 200 total transactions
+2025-10-01 11:00:04,658 - data.scripts.db_operations_enhanced - INFO - Inserted 10 new customers
+2025-10-01 11:00:04,674 - data.scripts.db_operations_enhanced - INFO - Inserted 20 new accounts
+2025-10-01 11:00:04,739 - data.scripts.db_operations_enhanced - INFO - Inserted 200 new transactions
