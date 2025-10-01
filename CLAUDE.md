@@ -20,14 +20,14 @@ store all elements (files, scripts, dbs) related to storing data from API in the
 
 1. I would like to store that raw data from Step 1 in a simple database probably using SQLight
 
-## Step 3. Scheduling data
+## Step 3. Scheduling data (done)
 
 I want to schedule scripts from step 1 and 2 to populate data on a daily or weekly basis by using Airflow.
 
 * main script to execute that loads data:
 python pulling_raw_data/scripts/generate_finance_data_enhanced.py --mode insert --customers 10 --accounts-per-customer 2 --transactions-per-account 10
 
-* I want to load data daily at 9am eastern time (Toronto time)
+* I want to load data daily at 11am eastern time (Toronto time)
 
 ## Step 4. Process data
 
